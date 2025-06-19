@@ -1,4 +1,4 @@
-# ESTADISTICAS_EN_EDUCACION 📒 📘📕
+# ESTADISTICAS_EN_EDUCACION_COL 📒 📘📕
 
 
 📊 Proyecto: Más allá de los números – Desigualdades Educativas en Colombia (2011–2023)
